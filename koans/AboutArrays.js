@@ -96,3 +96,4 @@ describe("About Arrays", function() {
   });  
 });
 console.log("hello world");
+console.log("Hi");
